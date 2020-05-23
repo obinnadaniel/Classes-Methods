@@ -1,0 +1,6 @@
+c:\users\obinna daniel\documents\visual studio 2017\Projects\Classes-Methods\Classes-Methods\bin\Debug\Classes-Methods.exe.config
+c:\users\obinna daniel\documents\visual studio 2017\Projects\Classes-Methods\Classes-Methods\bin\Debug\Classes-Methods.exe
+c:\users\obinna daniel\documents\visual studio 2017\Projects\Classes-Methods\Classes-Methods\bin\Debug\Classes-Methods.pdb
+c:\users\obinna daniel\documents\visual studio 2017\Projects\Classes-Methods\Classes-Methods\obj\Debug\Classes-Methods.csprojResolveAssemblyReference.cache
+c:\users\obinna daniel\documents\visual studio 2017\Projects\Classes-Methods\Classes-Methods\obj\Debug\Classes-Methods.exe
+c:\users\obinna daniel\documents\visual studio 2017\Projects\Classes-Methods\Classes-Methods\obj\Debug\Classes-Methods.pdb
